@@ -1,15 +1,18 @@
-# Project Title
+# Online Store
 
 ## Description of the Project
 
-Briefly describe what this Java console application does. Mention its purpose and who the intended users are. Explain the main functionality and what problems it aims to solve.
+The Online Store is a java application that resembles an Online Store. Customers can view products and add items to their cart. The product inventory is loaded from the file products(in).csv.
 
 ## User Stories
 
-List the user stories that guided the development of your application. Format these stories as: "As a [type of user], I want [some goal] so that [some reason]."
 
-- As a user, I want to be able to input my data, so that the application can process it accordingly.
-- As a user, I want to receive immediate feedback, so I can understand what to do next.
+- As a Customer I want to be able to view the Home Screen with a list of options in a neat way.
+- As a Customer I want to be able to see my cart and add products and add multiple products as well.
+- As a Customer I want to search for products using product ID
+- As a Customer I want to view all my products in my inventory and products that are in my cart as well.
+- As a Customer I want to be able to view my cart with the total amount.
+
 
 ## Setup
 
@@ -32,38 +35,36 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ## Technologies Used
 
-- Java: Mention the version you are using.
-- Any additional libraries or frameworks used in the project.
-
+- Java 17
+- Brightspace for workshop/previous assignments
 ## Demo
 
 Include screenshots or GIFs that show your application in action. Use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) to record a GIF of your application.
 
-![Application Screenshot](path/to/your/screenshot.png)
+
 
 ## Future Work
 
 Outline potential future enhancements or functionalities you might consider adding:
 
-- Additional feature to be developed.
-- Improvement of current functionalities.
+- Have to improve code commits yet again
+- Have to improve and keep project on github updated as well.
+- Added a few notes to describe code but should add more in the future.
 
 ## Resources
 
 List resources such as tutorials, articles, or documentation that helped you during the project.
 
-- [Java Programming Tutorial](https://www.example.com)
-- [Effective Java](https://www.example.com)
+- Brightspace previous module notes
 
 ## Team Members
 
-- **Name 1** - Specific contributions or roles.
-- **Name 2** - Specific contributions or roles.
-
+- Rohit Samparaboyina, the sole coder and tester of this application.
+- 
 ## Thanks
 
 Express gratitude towards those who provided help, guidance, or resources:
 
-- Thank you to [Mentor's Name] for continuous support and guidance.
+- Thank you to Raymond for continuous support and guidance.
 - A special thanks to all teammates for their dedication and teamwork.
  
