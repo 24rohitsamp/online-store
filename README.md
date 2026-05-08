@@ -41,6 +41,7 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 Include screenshots or GIFs that show your application in action. Use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) to record a GIF of your application.
 
+[recording (2).webm](https://github.com/user-attachments/assets/61d03da0-9fd0-4963-a319-212acca474eb)
 
 
 
